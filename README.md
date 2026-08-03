@@ -88,20 +88,16 @@ O seu principal conceito é garantir que o software seja fácil de entender, de 
 
 2. Requisitos — Ela deve responder tanto a necessidades técnicas (como segurança e performance) quanto a necessidades do negócio (o que a empresa precisa de entregar).
 
-3. Separação de Responsabilidades — Uma boa arquitetura isola as regras do negócio das ferramentas técnicas (como bases de dados ou frameworks). Assim, se precisares de mudar de base de dados, não tens de reescrever toda a lógica da aplicação.
+3. Separação de Responsabilidades — Uma boa arquitetura isola as regras do negócio das ferramentas técnicas (como bases de dados ou frameworks). Assim, se precisar de mudar de base de dados, não tem que reescrever toda a lógica da aplicação.
 
 ### Glossário
 
 | Termo                   | Explicação simples                                                                                                                                  |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arquitetura de Software | Organização global de um sistema incluindo a relação entre subsistemas, componentes e a definição de padrões técnicos para segurança e performance. |
-
 | Trade-off               | Situação de escolha conflituosa onde se perde algo em troca de um ganho em outra área (ex: performance vs. custo). |
-
 | Monolito                | Padrão onde o aplicativo é construído como uma unidade única e indivisível, compartilhando o mesmo espaço de memória e recursos. |
-
 | Microsserviços          | Coleção de serviços pequenos e autônomos que implementam funcionalidades específicas e comunicam-se via APIs bem definidas. |
-
 | Escalabilidade          | Capacidade de um sistema lidar com o aumento de demanda ou carga de forma sustentável e eficiente. |
 
 ### Prompts reutilizáveis
