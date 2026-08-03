@@ -96,13 +96,13 @@ O seu principal conceito é garantir que o software seja fácil de entender, de 
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arquitetura de Software | Organização global de um sistema incluindo a relação entre subsistemas, componentes e a definição de padrões técnicos para segurança e performance. |
 
-| Trade-off | Situação de escolha conflituosa onde se perde algo em troca de um ganho em outra área (ex: performance vs. custo). |
+| Trade-off               | Situação de escolha conflituosa onde se perde algo em troca de um ganho em outra área (ex: performance vs. custo). |
 
-| Monolito | Padrão onde o aplicativo é construído como uma unidade única e indivisível, compartilhando o mesmo espaço de memória e recursos. |
+| Monolito                | Padrão onde o aplicativo é construído como uma unidade única e indivisível, compartilhando o mesmo espaço de memória e recursos. |
 
-| Microsserviços | Coleção de serviços pequenos e autônomos que implementam funcionalidades específicas e comunicam-se via APIs bem definidas. |
+| Microsserviços          | Coleção de serviços pequenos e autônomos que implementam funcionalidades específicas e comunicam-se via APIs bem definidas. |
 
-| Escalabilidade | Capacidade de um sistema lidar com o aumento de demanda ou carga de forma sustentável e eficiente. |
+| Escalabilidade          | Capacidade de um sistema lidar com o aumento de demanda ou carga de forma sustentável e eficiente. |
 
 ### Prompts reutilizáveis
 
